@@ -1,0 +1,12 @@
+{
+  "name": "@ai-dev-os/a2ui-renderer",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.1"
+  }
+}

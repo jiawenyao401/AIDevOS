@@ -1,0 +1,28 @@
+
+> @ai-dev-os/web-ide@0.1.0 dev
+> next dev -p 3000
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 9.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 19.8s (1141 modules)
+ HEAD / 200 in 66ms
+ GET / 200 in 72ms
+ ✓ Compiled in 90ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1038ms (560 modules)
+ GET / 200 in 1456ms
+ ✓ Compiled in 27ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1640ms (560 modules)
+ GET / 200 in 2096ms
+ GET / 200 in 158ms
+ GET / 200 in 273ms
+ GET / 200 in 46ms
+ GET / 200 in 41ms
+ GET / 200 in 187ms
+ GET / 200 in 200ms
+ GET / 200 in 197ms

@@ -1,0 +1,5 @@
+﻿{
+  "name": "support_agent",
+  "description": "Simple support agent that calls tools via MCP gateway.",
+  "instructions": "Use tool protocol: tool:<name> {json} to invoke tools."
+}

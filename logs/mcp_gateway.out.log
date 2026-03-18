@@ -1,0 +1,17 @@
+INFO:     127.0.0.1:53922 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52381 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52385 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54304 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54146 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64955 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56873 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52369 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52374 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52378 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52551 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52554 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52559 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52629 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52634 - "POST /stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52638 - "POST /invoke HTTP/1.1" 200 OK

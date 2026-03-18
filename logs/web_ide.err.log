@@ -1,0 +1,4 @@
+npm error code ENOWORKSPACES
+npm error This command does not support workspaces.
+npm error A complete log of this run can be found in: C:\Users\EDY\AppData\Local\npm-cache\_logs\2026-03-18T03_21_22_810Z-debug-0.log
+^C^C

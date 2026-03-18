@@ -1,0 +1,26 @@
+﻿{
+  "name": "text_to_image",
+  "version": "0.1.0",
+  "description": "Generate image from text",
+  "auth": { "type": "none" },
+  "request": {
+    "method": "POST",
+    "url": "http://localhost:9001/generate",
+    "headers": { "Content-Type": "application/json" },
+    "body": { "prompt": "{{input.prompt}}" },
+    "timeout_ms": 15000,
+    "retries": 1
+  },
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "prompt": { "type": "string" }
+    },
+    "required": ["prompt"]
+  },
+  "output_mapping": {
+    "image_url": "$.image_url",
+    "prompt": "$.prompt",
+    "seed": "$.seed"
+  }
+}

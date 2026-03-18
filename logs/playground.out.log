@@ -1,0 +1,18 @@
+
+> @ai-dev-os/playground@0.1.0 dev
+> next dev -p 3001
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 9.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 11.2s (462 modules)
+ HEAD / 200 in 98ms
+ GET / 200 in 63ms
+ GET / 200 in 53ms
+ GET / 200 in 57ms
+ GET / 200 in 48ms
+ GET / 200 in 27ms
+ GET / 200 in 273ms
